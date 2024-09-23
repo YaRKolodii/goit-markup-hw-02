@@ -1,0 +1,71 @@
+body {
+font-family: "Roboto", "Verdana", "Tahoma", sans-serif;
+font-weight: "Regular";
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 2%;
+color: #434455;
+}
+
+h2 {
+font-size: 36px;
+font-weight: 700;
+line-height: 40px;
+letter-spacing: 0.02em;
+text-align: center;
+}
+
+.logo {
+font-family: Raleway;
+font-size: 18px;
+font-weight: 700;
+line-height: 21px;
+letter-spacing: 0.03em;
+text-align: left;
+color: #2E2F42;
+}
+.logo .accent {
+color: #4D5AE5;
+}
+
+
+.page-nav .link{
+color: #2E2F42;
+}
+.page-nav .link:hover,
+.page-nav .link:focus {
+color: #404BBF;
+}
+
+.list-contacts .link{
+    color: #434455;
+}
+.list-contacts .link:hover,
+.list-contacts .link:focus {
+    color: #404BBF;
+}
+
+.section-solutions {
+    background-color: #2E2F42;
+}
+.page-title{
+font-size: 56px;
+font-weight: 700;
+line-height: 60px;
+letter-spacing: 0.02em;
+text-align: center;
+color: #FFFFFF;
+}
+
+.button{
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0.04em;
+text-align: left;
+color: #FFFFFF;
+background-color: #4D5AE5;
+}
+.button:hover {
+background-color: #404BBF;
+}
