@@ -29,7 +29,7 @@ letter-spacing: 0.02em;
 color: #2E2F42;
 }
 
-ul{
+.list{
 list-style-type: none;
 }
 
@@ -49,6 +49,9 @@ color: #4D5AE5;
 }
 .logo .accent {
 color: #2E2F42;
+}
+.page-nav{
+list-style-type: none;
 }
 
 .page-nav .link{
